@@ -5,6 +5,7 @@ public class GitDemo {
 		// TODO Auto-generated method stub
 		 
 		System.out.println("Hello world");
+		System.out.println("Good bye TEam");
 
 				
 				
